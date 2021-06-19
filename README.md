@@ -1,3 +1,5 @@
-#NexForms
-##An upgrade to Google forms
-###Built with Pug, Golang
+# NexForms
+
+## An upgrade to Google forms
+
+### Built with Pug, Golang
