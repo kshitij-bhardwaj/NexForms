@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(0,0,0);
+}
+
+.btn.btn-primary.d-block.btn-facebook.btn-user.w-100 {
+  background-color: black;
+}
+
+.col-lg-5.d-none.d-lg-flex {
+  background-color: black;
+}
+
+.col-lg-7 {
+  background-color: rgb(255,255,255);
+}
+
+.container {
+  background-color: #ffffff;
+}
+
+.elegantshd {
+  background-color: black;
+}
+
+.navbar.navbar-light.navbar-expand-md.navigation-clean {
+  background-color: #ffffff;
+}
+
